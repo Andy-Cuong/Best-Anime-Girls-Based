@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Best Anime Girls (Based)</string>
+    <string name="bestgirl_name_1" translatable="false">Yuigahama Yui</string>
+    <string name="bestgirl_name_2" translatable="false">Yatogami Tooka</string>
+    <string name="bestgirl_name_3" translatable="false">Natsunagi Nagisa</string>
+    <string name="bestgirl_name_4" translatable="false">Kitagawa Marin</string>
+    <string name="bestgirl_name_5" translatable="false">Yuuki Asuna</string>
+    <string name="bestgirl_name_6" translatable="false">Destiny</string>
+    <string name="bestgirl_name_7" translatable="false">Kuon</string>
+    <string name="bestgirl_name_8" translatable="false">Mouri Ran</string>
+    <string name="bestgirl_name_9" translatable="false">Rem</string>
+    <string name="bestgirl_name_10" translatable="false">Futaba Rio</string>
+    <string name="anime_1">My Teen Romantic Comedy SNAFU</string>
+    <string name="anime_2">Date A Live</string>
+    <string name="anime_3">The Detective Is Already Dead</string>
+    <string name="anime_4">My Dress-Up Darling</string>
+    <string name="anime_5">Sword Art Online</string>
+    <string name="anime_6">Takt Op. Destiny</string>
+    <string name="anime_7">Utawarerumono: The False Faces</string>
+    <string name="anime_8">Case Closed</string>
+    <string name="anime_9">Re:ZERO -Starting Life in Another World-</string>
+    <string name="anime_10">Rascal Does Not Dream of Bunny Girl Senpai</string>
+    <string name="bestgirl_des_1" translatable="false">Yui Yuigahama is Hachiman Hikigaya\'s classmate from Sōbu High School, as well as being the first person helped by the Volunteer Service Club who would later become the third member. Yui is seen most of the time as a very cheerful, outgoing and friendly girl, in addition to having almost most of the time, a smile which denotes a clear and noticeable joy on her face, whether even when she is sad or upset.</string>
+    <string name="bestgirl_des_2" translatable="false">Tooka Yatogami is one of the main female characters of the Date A Live series. She is the first Spirit saved by Shidou and transfers into his class at the end of the first volume. Shidou named her for the date of their first meeting, the 10th. Reine later added the Yatogami surname for her. She is ignorant of the ways of the world, but nevertheless has a normal sense of embarrassment. She seems to have strong feelings for Shidou, which she is shown to be unable to understand when she gets jealous after seeing Shidou accidentally kiss Yoshino.</string>
+    <string name="bestgirl_des_3" translatable="false">As a child, Nagisa had a heart condition while she also had a weak and fragile body which forbid her from going outside and to school meaning she spent most of her childhood in a ward room\'s hospital bed. One year before meeting Kimihiko Kimizuka, Nagisa received a heart transplant from an unknown donor that later was revealed Siesta was the donor. She inherited one of Siesta\'s \"Seven Tools\", the musket gun.</string>
+    <string name="bestgirl_des_4" translatable="false">Marin Kitagawa is a popular and beautiful high school girl in Gojo\'s class. She is very interested in cosplay and has tried to make her own, but without much success. By chance, she discovers Gojo can sew and the two bond over their mutual enthusiasm for their respective hobbies. She\'s a dreadful cook, with a bubbly personality. Her favorite cosplayer is Juju-san, and she\'ll watch anime and play video games for fun. Kitagawa-san is very emotionally mature, down to earth and respectful.</string>
+    <string name="bestgirl_des_5" translatable="false">Asuna is a friend of Kirito and is a sub-leader of the guild Knights of the Blood (KoB), a medium-sized guild of about thirty players, also called the strongest guild in Aincrad. Being one of the few girls that are in SAO, and even more so that she\'s extremely pretty, she receives many invitations and proposals. She is a skilled player earning the title \"Flash\" for her extraordinary sword skill that is lightning fast. Her game alias is the same as her real world name.</string>
+    <string name="bestgirl_des_6" translatable="false">Destiny is a Musicart named after L.V. Beethoven \"Symphony No. 5 in C minor Op.67\". She awakens inside Cosette Schneider when she was fatally injured during D2 attack during Symphonica Party.</string>
+    <string name="bestgirl_des_7" translatable="false">A doctor with ears and tail like an animal\'s. Separated from her homeland, she encounters Haku while traveling along leisurely.</string>
+    <string name="bestgirl_des_8" translatable="false">Mouri Ran is a childhood friend of Kudou Shinichi. She is the daughter of Mouri Kogorou, a private detective, and Kisaki Eri, a lawyer. Her parents got separated when she was seven, and one of her biggest goals is to get them back together. Her best friend next to Shinichi is her classmate Suzuki Sonoko, who constantly teases her about her relationship with Shinichi.</string>
+    <string name="bestgirl_des_9" translatable="false">Rem is one of the twin maids working for Roswaal L Mathers. She tends to speak in a superficially polite manner and sometimes acts without thinking. She holds both worshipping respect and guilt toward her sister for an incident in the past; because of this, Rem tends to think of herself as inferior.</string>
+    <string name="bestgirl_des_10" translatable="false">She is a stoic and blunt girl who possesses substantial knowledge in science, including chemistry and quantum physics. She has a sharp sense of humor and is even more sarcastic and straightforward than Sakuta. Despite her stoic nature, Rio also shows various emotions such as love, as holds affection toward Yuuma, as well as anxiousness. She\'s also genuinely kind and loves her friends.</string>
+    <string name="from" translatable="false">"From: "</string>
+    <string name="tap_to_expand" translatable="false">Tap to expand</string>
+    <string name="tap_to_collapse" translatable="false">Tap to collapse</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Best Anime Girls (Based)</string>
+    <string name="anime_1">Yahari Ore no Seishun Love Comedy wa Machigatteiru</string>
+    <string name="anime_2">Date A Live</string>
+    <string name="anime_3">Tantei wa Mou, Shindeiru.</string>
+    <string name="anime_4">Sono Bisque Doll wa Koi wo Suru</string>
+    <string name="anime_5">Sword Art Online</string>
+    <string name="anime_6">Takt Op. Destiny</string>
+    <string name="anime_7">Utawarerumono: Itsuwari no Kamen</string>
+    <string name="anime_8">Meitantei Conan</string>
+    <string name="anime_9">Re:Zero kara Hajimeru Isekai Seikatsu</string>
+    <string name="anime_10">Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai</string>
+</resources>
