@@ -7,7 +7,6 @@ import androidx.compose.animation.core.animateFloatAsState
 import androidx.compose.animation.core.spring
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.clickable
-import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
@@ -35,7 +34,6 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.TextUnit
 import androidx.compose.ui.unit.TextUnitType
 import androidx.compose.ui.unit.dp
-import androidx.compose.ui.unit.sp
 import com.example.bestanimegirlsbased.model.BestGirl
 import com.example.bestanimegirlsbased.ui.theme.BestAnimeGirlsBasedTheme
 
@@ -64,7 +62,7 @@ fun BestGirlCard(bestGirl: BestGirl, modifier: Modifier = Modifier) {
                 BestGirlItem(
                     bestGirl = bestGirl,
                     expanded = expanded,
-                    modifier = Modifier.weight(1.8f)
+                    modifier = Modifier.weight(2.5f)
                 )
 
                 Spacer(modifier = Modifier.weight(spacerWeight))
@@ -74,7 +72,7 @@ fun BestGirlCard(bestGirl: BestGirl, modifier: Modifier = Modifier) {
                 text = stringResource(if (expanded) R.string.tap_to_collapse else R.string.tap_to_expand),
                 modifier = Modifier
                     .rotate(-90f)
-                    .padding(bottom = 50.dp)
+                    .padding(bottom = 52.dp)
                     .align(Alignment.CenterStart),
                 color = MaterialTheme.colorScheme.onPrimaryContainer,
                 letterSpacing = TextUnit(0.5f, TextUnitType.Sp),
