@@ -96,8 +96,8 @@ fun BestGirlItem(
             ),
         horizontalAlignment = Alignment.CenterHorizontally
     ) {
-        val width by animateDpAsState(targetValue = if (expanded) 100.dp else 60.dp, label = "Image width")
-        val height by animateDpAsState(targetValue = if (expanded) 140.dp else 100.dp, label = "Image height")
+        val imageWidth by animateDpAsState(targetValue = if (expanded) 100.dp else 60.dp, label = "Image width")
+        val imageHeight by animateDpAsState(targetValue = if (expanded) 140.dp else 100.dp, label = "Image height")
 
         Row(
             modifier = Modifier
@@ -112,8 +112,8 @@ fun BestGirlItem(
                 modifier = Modifier
                     .padding(4.dp)
                     .size(
-                        width = width,
-                        height = height
+                        width = imageWidth,
+                        height = imageHeight
                     )
                     .clip(if (expanded) MaterialTheme.shapes.large else MaterialTheme.shapes.small),
                 contentScale = ContentScale.Crop
